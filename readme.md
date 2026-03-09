@@ -1,4 +1,4 @@
-## pyTumu: A toy FEM package:
+## Nano_FEM: A toy FEM package:
 
 This is a toy FEM package, which is developed for learning purpose,
 in my coursework of CGN 6905, Computational inelasticity, University of Florida.
